@@ -34,7 +34,7 @@ Deploying a smart contract on Ethereum Network.
 
 </br>
 
-### Deploying the Smart Contract
+* ### Deploying the Smart Contract
 
 ![10](https://user-images.githubusercontent.com/71061070/192112619-ab6724c4-bbfc-443a-89be-7dbc8ab3cc1f.jpg)
 
@@ -42,7 +42,7 @@ Deploying a smart contract on Ethereum Network.
 
 </br>
 
-### Interacting with the Smart Contract
+* ### Interacting with the Smart Contract
 
 ![15](https://user-images.githubusercontent.com/71061070/192113443-7ef4d847-ea21-4285-828e-dddb11fd9c9e.jpg)
 
